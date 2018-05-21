@@ -2,7 +2,15 @@
 <urlset>
  <url>
   <loc>https://www.goodfeelings.cn/?p=95</loc>
+ </url>
+</urlset>
+<urlset>
+ <url>
   <loc>https://www.goodfeelings.cn/?p=85</loc>
+ </url>
+</urlset>
+<urlset>
+ <url>
   <loc>https://www.goodfeelings.cn/?p=17</loc>
  </url>
 </urlset>
